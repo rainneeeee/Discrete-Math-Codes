@@ -1,0 +1,14 @@
+- Maximum of 3 Numbers
+- Maximum Value in a Sequence
+- Searching
+    - Text Search
+    - Binary Search
+- Sorting
+    - Insertion Sort
+- Shuffle
+- Combinatorics
+    - Factorial
+        - Iterative
+        - Recursive
+    - Permutation
+    - Combination
