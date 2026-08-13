@@ -1,7 +1,7 @@
 n = float(input("Enter the value of n: "))
 
-factorial = 1
-counter = 1
+factorial = 1.0
+counter = 1.0
 
 while counter <= n:
     factorial = factorial * counter
