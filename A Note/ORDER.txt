@@ -5,6 +5,7 @@
     - Binary Search
 - Sorting
     - Insertion Sort
+    - Bubble Sort
 - Shuffle
 - Combinatorics
     - Factorial
