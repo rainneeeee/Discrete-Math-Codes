@@ -13,3 +13,6 @@
         - Recursive
     - Permutation
     - Combination
+- Progressions
+    - Arithmetic
+    - Geometric
