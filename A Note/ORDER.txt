@@ -16,3 +16,4 @@
 - Progressions
     - Arithmetic
     - Geometric
+    - Harmonic
