@@ -17,3 +17,5 @@
     - Arithmetic
     - Geometric
     - Harmonic
+- Number Theory
+    - Is Prime
